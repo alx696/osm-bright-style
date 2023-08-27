@@ -2,6 +2,10 @@
 
 源自 [OSM Bright](https://github.com/openmaptiles/osm-bright-gl-style/) , 针对 [里路路书](lilu.red) 需要进行了调整.
 
+## 声明
+
+政治是个很麻烦的东西, 我们希望规避这些风险. 此样式是纯粹的路书用途, 不提供任何国界水域边界容易触及政治的信息.
+
 ## 开发
 
 ### 生成sprite
