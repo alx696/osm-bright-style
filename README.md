@@ -27,7 +27,7 @@ spritezero --retina osm-bright@2x icons/
 ```
 sudo npm install -g fontnik
 
-build-glyphs /path/to/NotoSerifSC-Bold.otf /path/to/Noto Serif SC Bold
+FONT_NAME=NotoSerifSC-Regular ; mkdir -p ${FONT_NAME} ; build-glyphs ${FONT_NAME}.otf ./${FONT_NAME}
 ```
 
 > 示例使用的是 `NotoSerifSC-Bold.otf` , 你可以替换成其它的字体.
